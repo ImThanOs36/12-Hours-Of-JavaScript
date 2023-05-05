@@ -10,21 +10,26 @@
 
 function add(){
   //Add function here
+  return a + b
 }
 
 function sub(){
   //Subtract function here
+  return a - b
 }
 
 function div(){
   //Divide function here
+  return a / b
 }
 
 function mul(){
   //Multiply function here
+  return a * b
 }
 
 console.log('hello from the SUM exercise')
 /* 
   TODO: create a function that console logs the result of any of the above operations.
 */
+const sum = () =>console.log(a + b)
