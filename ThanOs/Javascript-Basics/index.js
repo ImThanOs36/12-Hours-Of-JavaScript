@@ -1,1 +1,14 @@
-console.log("hello world");
+// console.log("hello world");
+
+// // variables
+
+// name = "ThanOs";
+// console.log(name);
+
+// operators
+// + - * / ** 
+
+
+// math 
+
+
